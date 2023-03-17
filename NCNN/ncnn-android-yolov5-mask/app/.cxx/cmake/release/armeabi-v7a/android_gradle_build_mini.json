@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\CMakeLists.txt",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Release-armeabi-v7a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\" yolov5ncnn",
+      "abi": "armeabi-v7a",
+      "output": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libyolov5ncnn.so"
+    }
+  }
+}

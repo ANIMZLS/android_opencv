@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask",
+      "sdkFolder": "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app",
+      "makeFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\.cxx",
+      "cxxFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a",
+  "jsonFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a",
+  "objFolder": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a",
+  "buildCommandFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\armeabi-v7a\\compile_commands.json"
+}

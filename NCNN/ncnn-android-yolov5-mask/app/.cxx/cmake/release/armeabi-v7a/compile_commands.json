@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/BaiduNetdiskDownload/ncnn-android-yolov5-mask/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\xugaoxiang\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/xugaoxiang/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/xugaoxiang/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov5ncnn_EXPORTS -isystem F:/BaiduNetdiskDownload/ncnn-android-yolov5-mask/app/src/main/jni/armeabi-v7a/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\yolov5ncnn.dir\\yolov5ncnn_jni.cpp.o -c F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+  "file": "F:\\BaiduNetdiskDownload\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp"
+}
+]

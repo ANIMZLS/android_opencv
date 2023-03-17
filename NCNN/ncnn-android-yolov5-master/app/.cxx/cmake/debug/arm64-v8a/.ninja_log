@@ -1,0 +1,8 @@
+# ninja log v5
+1	1291	700741315	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	1be8e4baa1cb0f99
+1296	1617	700741315	D:/Android_Projects/NCNN/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	e6bf7fc49b70f5dd
+3	278	700741563	D:/Android_Projects/NCNN/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	99658a00d2b5551a
+2	839	700743328	build.ninja	851767b5687c18f8
+6	1421	700743329	D:/Android_Projects/NCNN/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	e6bf7fc49b70f5dd
+6	1929	700743455	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	1be8e4baa1cb0f99
+1929	2221	700743455	D:/Android_Projects/NCNN/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	e6bf7fc49b70f5dd

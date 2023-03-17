@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask",
+      "sdkFolder": "D:\\program\\SDK",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app",
+      "makeFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\.cxx",
+      "cxxFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx",
+      "ndkFolder": "D:\\program\\SDK\\ndk\\25.2.9519653",
+      "ndkVersion": "25.2.9519653",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a",
+  "jsonFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\.cxx\\cmake\\release\\arm64-v8a\\compile_commands.json"
+}

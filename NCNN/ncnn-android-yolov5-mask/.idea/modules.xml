@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ncnn-android-yolov5-mask.iml" filepath="$PROJECT_DIR$/.idea/modules/ncnn-android-yolov5-mask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov5-mask.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
