@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Android_Projects/ncnn-android-yolov5-mask/app/.cxx/cmake/release/arm64-v8a",
+  "command": "D:\\program\\SDK\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=D:/program/SDK/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov5ncnn_EXPORTS -isystem D:/Android_Projects/ncnn-android-yolov5-mask/app/src/main/jni/arm64-v8a/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\yolov5ncnn.dir\\yolov5ncnn_jni.cpp.o -c D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+  "file": "D:\\Android_Projects\\ncnn-android-yolov5-mask\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp"
+}
+]

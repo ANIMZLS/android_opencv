@@ -1,0 +1,4 @@
+#Fri Mar 17 15:09:08 CST 2023
+base.0=D\:\\Android_Projects\\NCNN\\ncnn-android-yolov5-mask\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

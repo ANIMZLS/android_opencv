@@ -1,0 +1,3 @@
+F:/BaiduNetdiskDownload/ncnn-android-yolov5-mask/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/yolov5ncnn.dir
+F:/BaiduNetdiskDownload/ncnn-android-yolov5-mask/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/BaiduNetdiskDownload/ncnn-android-yolov5-mask/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
